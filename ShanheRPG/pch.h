@@ -11,4 +11,8 @@
 
 // TODO: 添加要在此处预编译的标头
 
+#include <iostream>
+#include <stdio.h>
+#include <Windows.h>
+
 #endif //PCH_H

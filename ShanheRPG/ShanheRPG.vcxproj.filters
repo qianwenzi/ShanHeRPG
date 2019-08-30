@@ -18,12 +18,66 @@
     <ClInclude Include="pch.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="ShanheDevice.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ShanheInput.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ShanheUtilities.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ShanheBuffer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ShanheObject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ShanheMap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ShanhePlayer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ShanheGame.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Shanhe.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ShanheScene.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="ShanheRPG.cpp">
+    <ClCompile Include="ShanheDevice.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ShanheInput.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ShanheBuffer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ShanheObject.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ShanheMap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ShanhePlayer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ShanheGame.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ShanheScene.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
